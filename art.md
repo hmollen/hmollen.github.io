@@ -25,20 +25,20 @@
 
 \cvtitle{Awards}
 
-2017 - AICUO Award for Excellence in the Visual Arts Grand Prize
-2017 - The Peterson Prize in Art, Kenyon College
-2014 - Helen J. Cahall Merit Scholarship for Excellence in Fine Art, Kenyon College
+\cventry{2017}{AICUO Award for Excellence in the Visual Arts Grand Prize}
+\cventry{2017}{The Peterson Prize in Art, Kenyon College}
+\cventry{2014}{Helen J. Cahall Merit Scholarship for Excellence in Fine Art, Kenyon College}
 
 \cvtitle{Nominations}
-2019 - International Sculpture Center Outstanding Student Achievement in Contemporary Sculpture
-2018 - Mills College Nominee for the Dedalus Foundation Fellowship
+\cventry{2019}{International Sculpture Center Outstanding Student Achievement in Contemporary Sculpture}
+\cventry{2018}{Mills College Nominee for the Dedalus Foundation Fellowship}
 
 \cvtitle{Curatorial Projects}
-2017 - (im)permanence, Department of Art History Teaching Gallery,
+\cventry{2017}{(im)permanence, Department of Art History Teaching Gallery}
 
 \cvtitle{Selected Press}
-2019 - MFA Now 2019 Archive
-2019 - Wotisart #23 February
+\cventry{2019}{MFA Now 2019 Archive}
+\cventry{2019}{Wotisart #23 February}
 
 
 ~~~
