@@ -1,0 +1,4 @@
+```julia
+using Franklin
+serve()
+```
