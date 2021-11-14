@@ -1,4 +1,0 @@
-```julia
-using Franklin
-serve()
-```
