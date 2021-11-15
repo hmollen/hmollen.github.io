@@ -64,7 +64,8 @@ h1,h2,h3,h4,h5,h6{
   color:#27262b;
 }
 p{
-  margin-bottom:1em
+  margin-bottom:1em;
+  font-weight:300;
 }
 /* a{
   color:#0E39B0;
