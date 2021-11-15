@@ -20,31 +20,41 @@
 <!-- 1. [CV](#cv) -->
 
 \figenv{bookshop}{
-<b>Book/Shop,<br>
-Concept Retail<br><br>
+<b>Book/Shop<br>
 </b>
+Concept Retail<br><br>
 
 <p>
-<a href="https://www.shopbookshop.com">Book/Shop</a> is a design-minded, multi-disciplinary brand offering objects, events, and experiences related to books and reading. Founded by Erik Heywood in 2011 and run by a small team in the San Francisco Bay Area.<br><br>
+<a href="https://www.shopbookshop.com">Book/Shop</a> is a design-minded, multi-disciplinary brand offering objects, events, and experiences related to books and reading. Founded by Erik Heywood in 2011 and run by a small team in the San Francisco Bay Area.<br>
+</p>
 
-<b>Role - Web Design, Product Photography, Email Marketing</b><br><br>
+
+Role - Web Design, Product Photography, Email Marketing<br><br>
+<p>
 Founder - Erik Heywood<br>
 Assistant Photographer - Ryan Burns<br>
 Retail Assistant - Kimberly Corona
 </p>
 }{/assets/bookshop.jpg}{width:100%}
 
+~~~
+<hr>
+<br>
+~~~
+
 \figenv{mate}{
 <b>Mate Fertility<br>
+</b>
 Branding, Web Design
-</b><br><br>
+<br><br>
 
 <p>
-mate fertility represents a network of fertility who are making the path to fertility less complicated, less expensive, and a lot more accessible. they do this with an always-available network of fertility centers run by experts who care, a branded experience that brings all resources under one roof, state-of-the-art treatments clearly explained and easily kept track of, and services delivered in a positive, warm environment. ​​​​<br><br>
+<a href="https://matefertility.com">mate fertility</a> represents a network of fertility who are making the path to fertility less complicated, less expensive, and a lot more accessible. they do this with an always-available network of fertility centers run by experts who care, a branded experience that brings all resources under one roof, state-of-the-art treatments clearly explained and easily kept track of, and services delivered in a positive, warm environment. ​​​​<br>
+</p>
 
+Role - Web Design & Production Assistance<br><br>
 
-<b>Role - Web Design & Production Assistance</b><br><br>
-
+<p>
 Agency - Partners & Spade<br>
 Creative Directors - Andy Spade & Erik Heywood<br>
 Art Director - Parker Argote<br>
@@ -55,18 +65,24 @@ Illustrator - Sandra Javera<br>
 </p>
 }{/assets/mate.png}{width:100%}
 
+~~~
+<hr>
+<br>
+~~~
 
 \figenv{siia}{
 <b>Siia Cosmetics<br>
+</b>
 Branding, Web Design
-</b><br><br>
+<br><br>
 
 <p>
-<a href="https://siiacosmetics.com">Siia Cosmetics</a> is an American Beauty Company, founded in 2019 by a small team of entrepreneurs and beauty experts with a mission to bring the highest-quality luxury cosmetics to the greatest number of people, because we believe in this fundamental truth: everyone deserves beauty.​​​​<br><br>
+<a href="https://siiacosmetics.com">Siia Cosmetics</a> is an American Beauty Company, founded in 2019 by a small team of entrepreneurs and beauty experts with a mission to bring the highest-quality luxury cosmetics to the greatest number of people, because we believe in this fundamental truth: everyone deserves beauty.​​​​<br>
+</p>
 
 
-<b>Role - Web Design & Production Assistance</b><br><br>
-
+Role - Web Design & Production Assistance<br><br>
+<p>
 Agency - Partners & Spade<br>
 Creative Directors - Andy Spade & Erik Heywood<br>
 Art Director - Parker Argote<br>
