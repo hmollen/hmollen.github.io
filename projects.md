@@ -25,7 +25,7 @@ Concept Retail<br><br>
 </b>
 
 <p>
-Book/Shop is a design-minded, multi-disciplinary brand offering objects, events, and experiences related to books and reading. Founded by Erik Heywood in 2011 and run by a small team in the San Francisco Bay Area.<br><br>
+<a href="https://www.shopbookshop.com">Book/Shop</a> is a design-minded, multi-disciplinary brand offering objects, events, and experiences related to books and reading. Founded by Erik Heywood in 2011 and run by a small team in the San Francisco Bay Area.<br><br>
 
 <b>Role - Web Design, Product Photography, Email Marketing</b><br><br>
 Founder - Erik Heywood<br>
