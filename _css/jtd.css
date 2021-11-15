@@ -575,6 +575,7 @@ body { counter-reset: eqnum; }
 
 .hljs-metap { color: rgb(51, 131, 231); }
 
+
 /* ==================================================================
     YOUTUBE
 ================================================================== */
@@ -583,3 +584,8 @@ body { counter-reset: eqnum; }
 {overflow:hidden; padding-bottom:56.25%; position:relative; height:0;}
 .responsive-youtube iframe
 {left:0; top:0; height:100%; width:100%; position:absolute;}
+
+
+figcaption {
+  padding-bottom: 20px;
+}

@@ -1,8 +1,4 @@
 @def title = "Art"
-@def hascode = true
-@def date = Date(2020, 8, 31)
-
-@def tags = ["syntax", "code"]
 
 <!-- \newcommand{\title}[2]{~~~<span style="color:#1; font-weight: 800">#2</span><br>~~~} -->
 \newcommand{\cvtitle}[1]{~~~<span>#1</span><br>~~~}
@@ -10,36 +6,45 @@
 \newcommand{\bold}[1]{__!#1__}
 \newcommand{\cventry}[2]{~~~<span style="color:grey; font-size:90%"><u>#1</u> - #2</span><br>~~~}
 
+\newcommand{\figenv}[4]{
+~~~
+<figure style="text-align:left;">
+<img src="!#3" style="padding:0;#4" alt="#1"/>
+<figcaption>#2</figcaption>
+</figure>
+~~~
+}
 
-# CV
+<!-- \toc -->
 
-\cvtitle{Group Exhibitions}
+<!-- 1. [CV](#cv) -->
 
-\cventry{2019}{Extra Ordinary, Embark Gallery}
-\cventry{2019}{Shelf Life, Mills College Art Museum}
-\cventry{2018}{Farmer’s Almanac, The Roll-Up Project}
-\cventry{2017}{Senior Exhibition, Gund Gallery}
-\cventry{2017}{AICUO Awards Reception, Schumacher Gallery, Capital University}
-\cventry{2016}{Off the Hill: Student Curated, Student Artists, the Place at the Woodward}
-\cventry{2016}{Brave New World: Contemporary Art for Artists, Horvitz Lobby Gallery}
+\figenv{typology}{
+<b>Intimates: Typology</b><br>
+Ceramics, Sculpture (2020)
+}{/assets/typology.jpg}{width:100%}
 
-\cvtitle{Awards}
+<!-- \figenv{intimates}{
+<b>Intimates: Scans</b><br>
+Photography, found objects (2021)
+}{/assets/intimates_scans.jpg}{width:100%} -->
 
-\cventry{2017}{AICUO Award for Excellence in the Visual Arts Grand Prize}
-\cventry{2017}{The Peterson Prize in Art, Kenyon College}
-\cventry{2014}{Helen J. Cahall Merit Scholarship for Excellence in Fine Art, Kenyon College}
 
-\cvtitle{Nominations}
-\cventry{2019}{International Sculpture Center Outstanding Student Achievement in Contemporary Sculpture}
-\cventry{2018}{Mills College Nominee for the Dedalus Foundation Fellowship}
+\figenv{hair}{
+<b>Surface: Hair</b><br>
+Photography (2021)<br>
+}{/assets/hair.jpg}{width:100%}
 
-\cvtitle{Curatorial Projects}
-\cventry{2017}{(im)permanence, Department of Art History Teaching Gallery}
+<!-- \figenv{inversions}{
+<b>Surface: Scans, Inversions</b><br>
+Photography, Sculpture (2021)
+}{/assets/inversions.png}{width:100%} -->
 
-\cvtitle{Selected Press}
-\cventry{2019}{MFA Now 2019 Archive}
-\cventry{2019}{Wotisart #23 February}
 
+\figenv{surface scans}{
+<b>Surface: Scans</b><br>
+Photography, Sculpture (2020)
+}{/assets/surface_scans.jpg}{width:100%}
 
 ~~~
 <hr>
