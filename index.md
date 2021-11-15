@@ -15,8 +15,9 @@
 Harlee Mollenkopf is a visual artist and junior designer based in Oakland, CA.<br>
 
 <br>Contact<br>
-
+<p>
 harleemollenkopf [at] gmail [dot] com, <a href="https://www.linkedin.com/in/harlee-mollenkopf-955040142">Linkedin</a>
+</p>
 }{/assets/fingers.jpg}{width:100%}
 
 
