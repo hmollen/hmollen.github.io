@@ -189,8 +189,8 @@ SIDE BAR
   line-height: 60px;
   padding:1rem;
   align-items:center;
-  color:#C4820E;
-  text-transform:uppercase;
+  color:black;
+  /* text-transform:uppercase; */
   background:transparent;
   text-align:right;
   padding-right: 2rem;
@@ -362,7 +362,7 @@ MAIN CONTENT
   }
   .main-content{
     position:relative;
-    max-width: 800px;
+    max-width: 1000px;
     margin-left: 248px
   }
 }
