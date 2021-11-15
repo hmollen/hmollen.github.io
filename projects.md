@@ -49,7 +49,7 @@ Branding, Web Design
 <br><br>
 
 <p>
-<a href="https://matefertility.com">mate fertility</a> represents a network of fertility who are making the path to fertility less complicated, less expensive, and a lot more accessible. they do this with an always-available network of fertility centers run by experts who care, a branded experience that brings all resources under one roof, state-of-the-art treatments clearly explained and easily kept track of, and services delivered in a positive, warm environment. ​​​​<br>
+<a href="https://matefertility.com">mate fertility</a> represents a network of fertility specialists who are making the path to fertility less complicated, less expensive, and a lot more accessible. They do this with an always-available network of fertility centers run by experts who care, a branded experience that brings all resources under one roof, state-of-the-art treatments clearly explained and easily kept track of, and services delivered in a positive, warm environment. ​​​​<br>
 </p>
 
 Role - Web Design & Production Assistance<br><br>
