@@ -58,7 +58,7 @@ Branding, Web Design
 </p>
 <br>
 Role - Web Design & Production Assistance<br>
-<p>&ensp;Web Page Design<br>
+<p>&ensp;Web page design<br>
 &ensp;Assisted in building web quiz​​​​<br>
 &ensp;Managed illustration file library<br>
 &ensp;Assisted in developing brand guidelines for illustration use​​​​<br>
@@ -72,7 +72,7 @@ Account Director - Nicole Solano<br>
 Account Associate - Angelika Ingham<br>
 UX Designer - Lauren Wills<br>
 Illustrator - Sandra Javera<br>
-}{/assets/iPad_10.5_.png}{width:100%}
+}{/assets/iPad_10.5_.png}{width:70%}
 
 ~~~
 <hr>
