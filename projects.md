@@ -72,7 +72,7 @@ Account Director - Nicole Solano<br>
 Account Associate - Angelika Ingham<br>
 UX Designer - Lauren Wills<br>
 Illustrator - Sandra Javera<br>
-}{/assets/iPad 10.5_.png}{width:100%}
+}{/assets/iPad_10.5_.png}{width:100%}
 
 ~~~
 <hr>
