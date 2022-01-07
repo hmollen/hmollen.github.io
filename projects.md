@@ -33,8 +33,8 @@ Role - Manager<br>
 <p>&ensp;Product photography and direction<br>
 &ensp;Email-marketing design<br>
 &ensp;Editorial projects<br>
-&ensp;Visual Merchandising​​​​ (e-comm and in-store)<br>
-&ensp;Web Design<br>
+&ensp;Visual merchandising​​​​ (e-comm and in-store)<br>
+&ensp;Web design<br>
 &ensp;Operations​​​​<br>
 </p>
 Founder - Erik Heywood<br>

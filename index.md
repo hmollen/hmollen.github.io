@@ -12,7 +12,7 @@
 
 \figenv{Fingers}{
 <br>  
-Harlee Mollenkopf is a visual artist and junior designer based in Oakland, CA.<br>
+Harlee Mollenkopf is a visual artist and designer based in Oakland, CA.<br>
 
 <br>Contact<br>
 <p>
