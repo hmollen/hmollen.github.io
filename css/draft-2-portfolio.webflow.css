@@ -9,6 +9,10 @@ body {
 .container {
   max-width: 1200px;
   padding: 60px 20px;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
 }
 
 .heading {
