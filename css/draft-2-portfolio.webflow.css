@@ -792,6 +792,15 @@ body {
   .cards-grid-container-2 {
     grid-column-gap: 20px;
   }
+
+  .paragraph-13 {
+    font-size: 13px;
+  }
+
+  .paragraph-14 {
+    font-size: 13px;
+    line-height: 18px;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -822,7 +831,7 @@ body {
 
   .heading-3 {
     margin-top: 28px;
-    font-size: 13px;
+    font-size: 14px;
   }
 
   .columns-2 {
@@ -864,6 +873,7 @@ body {
 
   .paragraph-6 {
     font-size: 12px;
+    line-height: 16px;
   }
 
   .image-4 {
@@ -951,6 +961,16 @@ body {
     margin-right: auto;
     margin-left: auto;
   }
+
+  .paragraph-13 {
+    font-size: 12px;
+    line-height: 14px;
+  }
+
+  .paragraph-14 {
+    font-size: 12px;
+    line-height: 14px;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -972,7 +992,7 @@ body {
   .heading-3 {
     margin-top: 16px;
     margin-bottom: 5px;
-    font-size: 12px;
+    font-size: 13px;
   }
 
   .paragraph-5 {
@@ -994,8 +1014,8 @@ body {
 
   .paragraph-6 {
     margin-bottom: 5px;
-    font-size: 10px;
-    line-height: 14px;
+    font-size: 12px;
+    line-height: 16px;
   }
 
   .column-3 {
@@ -1008,8 +1028,8 @@ body {
   }
 
   .paragraph-9 {
-    font-size: 10px;
-    line-height: 13px;
+    font-size: 12px;
+    line-height: 16px;
   }
 
   .column-4 {
@@ -1055,6 +1075,16 @@ body {
 
   .heading-6 {
     font-size: 14px;
+    line-height: 20px;
+  }
+
+  .paragraph-13 {
+    font-size: 12px;
+  }
+
+  .paragraph-14 {
+    font-size: 12px;
+    line-height: 14px;
   }
 }
 
