@@ -136,6 +136,15 @@ body {
   margin-top: 140px;
 }
 
+.heading-3.big-boi {
+  margin-top: 60px;
+  font-size: 24px;
+}
+
+.heading-3.big-boi.sub-heading {
+  margin-top: 220px;
+}
+
 .columns-2 {
   display: -webkit-box;
   display: -webkit-flex;
@@ -1435,6 +1444,10 @@ body {
     margin-top: 100px;
   }
 
+  .heading-3.big-boi.sub-heading {
+    margin-top: 120px;
+  }
+
   .heading-4 {
     font-size: 16px;
     line-height: 22px;
@@ -1919,6 +1932,15 @@ body {
 
   .heading-3.sub-heading {
     margin-top: 50px;
+  }
+
+  .heading-3.big-boi {
+    margin-top: 45px;
+    font-size: 20px;
+  }
+
+  .heading-3.big-boi.sub-heading {
+    margin-top: 67px;
   }
 
   .body.home {
