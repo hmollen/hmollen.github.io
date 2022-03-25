@@ -1136,6 +1136,13 @@ body {
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
   -webkit-box-align: start;
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
@@ -1145,6 +1152,7 @@ body {
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
   color: #333;
+  text-align: left;
 }
 
 .text-block-4.footer-home {
@@ -1171,6 +1179,7 @@ body {
   -ms-flex: 1;
   flex: 1;
   color: #333;
+  text-align: right;
 }
 
 .text-block-5.footer-home {
@@ -1393,6 +1402,13 @@ body {
 
 .project-image.sub-image {
   margin-top: 40px;
+}
+
+.html-embed {
+  overflow: visible;
+  text-align: center;
+  -o-object-fit: fill;
+  object-fit: fill;
 }
 
 @media screen and (max-width: 991px) {
